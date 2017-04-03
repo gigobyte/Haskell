@@ -5,7 +5,7 @@ strictReplicate count el
     | otherwise = replicate count el
 
 -- I could use Foldable here which apparently is a type that implements reduce
--- but I have to type some extra stuff which I dont undestand
+-- but I have to type some extra stuff which I don't understand
 -- lenTell :: (Foldable t) => t a -> String
 -- so I left it as it is
 lenTell :: [a] -> String
