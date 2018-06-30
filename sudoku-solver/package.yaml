@@ -6,10 +6,6 @@ author:              "Author name here"
 maintainer:          "example@example.com"
 copyright:           "2018 Author name here"
 
-extra-source-files:
-- README.md
-- ChangeLog.md
-
 # Metadata used when publishing your package
 # synopsis:            Short description of your package
 # category:            Web
@@ -31,9 +27,12 @@ executables:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
-    - -threaded
     - -rtsopts
-    - -Weverything
+    - -Wall
+    - -Wcompat
+    - -Wincomplete-record-updates
+    - -Wincomplete-uni-patterns
+    - -Wredundant-constraints
     - -with-rtsopts=-N
     dependencies:
     - sudoku-solver

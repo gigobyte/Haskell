@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import           SudokuSolver
 
 main :: IO ()
-main = someFunc
+main = getLine >>= (print . solve)
