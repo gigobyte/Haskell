@@ -9,8 +9,8 @@
 | Monad transformers | :x: | :x: | [1](http://haskellbook.com/) |
 | mtl | :x: | :x: | |
 | ReaderT design pattern | :x: | :x: | |
-| Free | :x: | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html) |
+| Free | :x: | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo) |
 | Comonad | :x: | :x: | |
 | Coalgebra (F-Algebras) | :x: | :x: | [1](https://stackoverflow.com/a/16022059/4709004) |
 | Recursion schemes | :x: | :x: | [1](https://github.com/passy/awesome-recursion-schemes) |
-| Functor family (Strong, Choice etc) | :x: | :x: | [1](http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Wilson-ExtendedFunctoFamily.pdf)
+| Functor family (Strong, Choice etc) | :x: | :x: | [1](http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Wilson-ExtendedFunctoFamily.pdf), [2](https://www.youtube.com/watch?v=IJ_bVVsQhvc) | 
