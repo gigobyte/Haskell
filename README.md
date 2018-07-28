@@ -4,7 +4,7 @@
 |:-----:|:-----:| :-----:| :-----:|
 | Data.Functor.Compose | :x: | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
 | Reader | :x: | :x: | [1](http://haskellbook.com/) |
-| State | :x: | :x: | [1](http://haskellbook.com/), [2](https://egghead.io/courses/state-monad-in-javascript) |
+| State | :x: | :x: | [1](http://haskellbook.com/), [2](https://egghead.io/courses/state-monad-in-javascript), [3](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c) |
 | Parser combinators | :x: | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1) |
 | Monad transformers | :x: | :x: | [1](http://haskellbook.com/) |
 | mtl | :x: | :x: | |
