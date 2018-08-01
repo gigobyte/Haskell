@@ -18,3 +18,5 @@
 ## Quotes
 
 "If everything is an expression, everything has a type" - [Clément Delafargue - TDD as in Type-Driven Development](https://www.youtube.com/watch?v=H8JXQPCvTw8&t=11m50s)
+
+"It takes a lot of programming to get back from a little programming that deviates from mathematical logic." - Xavier Leroy
