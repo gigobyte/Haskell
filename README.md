@@ -1,5 +1,7 @@
 ## Things to learn
 
+Also used as a list of articles/posts I want to read
+
 | Topic | Know in theory? | Used in practice? | Resources |
 |:-----:|:-----:| :-----:| :-----:|
 | Data.Functor.Compose | :x: | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
@@ -15,6 +17,7 @@
 | Recursion schemes | :x: | :x: | [1](https://github.com/passy/awesome-recursion-schemes) |
 | Functor family (Strong, Choice etc) | :x: | :x: | [1](http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Wilson-ExtendedFunctoFamily.pdf), [2](https://www.youtube.com/watch?v=IJ_bVVsQhvc) |
 | Functional Dependencies | :x: | :x: | |
+| Epi- and monomorphism | :x: | :x: | [1](https://www.johndcook.com/blog/2018/08/25/epi-and-mono/)
 
 ## Quotes
 
