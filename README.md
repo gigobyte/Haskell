@@ -9,7 +9,7 @@
 | Monad transformers | :x: | :x: | [1](http://haskellbook.com/) |
 | mtl | :x: | :x: | |
 | ReaderT design pattern | :x: | :x: | |
-| Free | :x: | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo) |
+| Free | :x: | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo), [3](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html), [4](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html) |
 | Comonad | :x: | :x: | |
 | Coalgebra (F-Algebras) | :x: | :x: | [1](https://stackoverflow.com/a/16022059/4709004) |
 | Recursion schemes | :x: | :x: | [1](https://github.com/passy/awesome-recursion-schemes) |
