@@ -18,6 +18,9 @@ Also used as a list of articles/posts I want to read
 | Functor family (Strong, Choice etc) | :x: | [1](http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Wilson-ExtendedFunctoFamily.pdf), [2](https://www.youtube.com/watch?v=IJ_bVVsQhvc) |
 | Functional Dependencies | :x: | |
 | Epi- and monomorphism | :x: | [1](https://www.johndcook.com/blog/2018/08/25/epi-and-mono/)
+| GADTs | :x: | |
+| Type families | :x: | |
+| Template Haskell | :x: | |
 
 ## Quotes
 
