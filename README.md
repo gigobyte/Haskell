@@ -5,7 +5,7 @@ Also used as a list of articles/posts I want to read
 | Topic | Familiar with? | Resources |
 |:-----:|:-----:| :-----:|
 | Data.Functor.Compose | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
-| Reader | :x: | [1](http://haskellbook.com/) |
+| Reader | :x: | [1](http://haskellbook.com/), [2](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html) |
 | State | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://egghead.io/courses/state-monad-in-javascript), [3](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c) |
 | Parser combinators | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1) |
 | Monad transformers | :x: | [1](http://haskellbook.com/) |
