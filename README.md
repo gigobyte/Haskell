@@ -21,6 +21,7 @@ Also used as a list of articles/posts I want to read
 | GADTs | :x: | |
 | Type families | :x: | |
 | Template Haskell | :x: | |
+| Algebraic effects | :x: | |
 
 ## Quotes
 
