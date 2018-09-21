@@ -22,6 +22,7 @@ Also used as a list of articles/posts I want to read
 | Type families | :x: | |
 | Template Haskell | :x: | |
 | Algebraic effects | :x: | |
+| Typeable/Typerep | :x: | [1](https://sras.me/haskell/what-the-heck-is-typeable.html) |
 
 ## Quotes
 
