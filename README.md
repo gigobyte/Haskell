@@ -24,6 +24,7 @@ Also used as a list of articles/posts I want to read
 | Algebraic effects | :x: | |
 | Typeable/Typerep | :x: | [1](https://sras.me/haskell/what-the-heck-is-typeable.html) |
 | Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d) |
+| DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 
 ## Quotes
 
