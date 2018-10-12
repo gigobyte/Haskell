@@ -33,3 +33,5 @@ Also used as a list of articles/posts I want to read
 "It takes a lot of programming to get back from a little programming that deviates from mathematical logic." - Xavier Leroy
 
 "The way I think about this is that as programming languages evolve things that used to be side effects become implementation details of the language.  One example of this is manual memory management which evolved into garbage collection" - [Gabriel Gonzalez](https://twitter.com/GabrielG439/status/1028418658287190017)
+
+"Projects promoting programming in “natural language” are intrinsically doomed to fail." - Edsger Dijkstra
