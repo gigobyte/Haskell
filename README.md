@@ -34,4 +34,4 @@ Also used as a list of articles/posts I want to read
 
 "The way I think about this is that as programming languages evolve things that used to be side effects become implementation details of the language.  One example of this is manual memory management which evolved into garbage collection" - [Gabriel Gonzalez](https://twitter.com/GabrielG439/status/1028418658287190017)
 
-"Projects promoting programming in “natural language” are intrinsically doomed to fail." - Edsger Dijkstra
+"When people say "but most business logic bugs aren't type errors" i just want to show them how to make bugs into type errors" - [Matt Parsons](https://twitter.com/mattoflambda/status/1008735243581288449)
