@@ -8,8 +8,8 @@ Also used as a list of articles/posts I want to read
 | Reader | :x: | [1](http://haskellbook.com/), [2](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html) |
 | State | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://egghead.io/courses/state-monad-in-javascript), [3](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c) |
 | Parser combinators | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1) |
-| Monad transformers | :x: | [1](http://haskellbook.com/), [2](https://mmhaskell.com/blog/2017/3/6/making-sense-of-multiple-monads) |
-| mtl | :x: | |
+| Monad transformers | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://mmhaskell.com/blog/2017/3/6/making-sense-of-multiple-monads) |
+| mtl | :heavy_check_mark: | [1](https://www.youtube.com/watch?v=GZPup5Iuaqw) |
 | ReaderT design pattern | :x: | |
 | Free | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo), [3](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html), [4](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html) |
 | Comonad | :x: | |
