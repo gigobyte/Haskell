@@ -1,6 +1,6 @@
 ## Things to learn
 
-Also used as a list of articles/posts I want to read
+The list has evolved into a collection of topics that are not limited only to Haskell, but to other functional languages and mathematics as well. It's also used as a list of articles/posts I want to read.
 
 | Topic | Familiar with? | Resources |
 |:-----:|:-----:| :-----:|
@@ -26,6 +26,7 @@ Also used as a list of articles/posts I want to read
 | DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 | Trampolines | :x: | |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
+| Indexed Monads | :x: | |
 
 ## Quotes
 
