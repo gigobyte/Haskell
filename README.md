@@ -22,7 +22,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Template Haskell | :x: | |
 | Algebraic effects | :x: | |
 | Typeable/Typerep | :x: | [1](https://sras.me/haskell/what-the-heck-is-typeable.html) |
-| Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d) |
+| Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d) |
 | DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 | Trampolines | :x: | |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
