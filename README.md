@@ -27,6 +27,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Trampolines | :x: | |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
 | Indexed Monads | :x: | |
+| Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals) |
 
 ## Quotes
 
