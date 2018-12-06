@@ -40,3 +40,5 @@ The list has evolved into a collection of topics that are not limited only to Ha
 "When people say "but most business logic bugs aren't type errors" i just want to show them how to make bugs into type errors" - [Matt Parsons](https://twitter.com/mattoflambda/status/1008735243581288449)
 
 "If your code feels complicated to write, it's more often than not that your types are not fit representation of your data" - [Michel Belleville](https://elmlang.slack.com/archives/C0CJ671HU/p1541581801316400)
+
+"The design of the data structures is the central decision in the creation of a program. Once the data structures are laid out, the algorithms tend to fall into place, and the coding is comparatively easy." - [Brian W. Kernighan and Rob Pike  - "The Practice of Programming"](http://ptgmedia.pearsoncmg.com/images/9780201615869/samplepages/020161586X.pdf)
