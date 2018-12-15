@@ -13,7 +13,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Free | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo), [3](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html), [4](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html) |
 | Comonad | :x: | |
 | Coalgebra (F-Algebras) | :x: | [1](https://stackoverflow.com/a/16022059/4709004) |
-| Recursion schemes | :x: | [1](https://github.com/passy/awesome-recursion-schemes) |
+| Recursion schemes | :x: | [1](https://github.com/passy/awesome-recursion-schemes), [2](https://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) |
 | Functor family (Strong, Choice etc) | :x: | [1](http://lambdajam.yowconference.com.au/slides/yowlambdajam2017/Wilson-ExtendedFunctoFamily.pdf), [2](https://www.youtube.com/watch?v=IJ_bVVsQhvc) |
 | Functional Dependencies | :x: | |
 | Epi- and monomorphism | :x: | [1](https://www.johndcook.com/blog/2018/08/25/epi-and-mono/)
