@@ -19,7 +19,6 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Epi- and monomorphism | :x: | [1](https://www.johndcook.com/blog/2018/08/25/epi-and-mono/)
 | GADTs | :x: | |
 | Type families | :x: | |
-| Template Haskell | :x: | |
 | Algebraic effects | :x: | |
 | Typeable/Typerep | :x: | [1](https://sras.me/haskell/what-the-heck-is-typeable.html) |
 | Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d) |
