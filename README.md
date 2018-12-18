@@ -25,9 +25,9 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d) |
 | DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 | Trampolines | :x: | |
+| Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview) |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
 | Indexed Monads | :x: | |
-| Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals) |
 | Tagless Final | :x: | [1](https://serokell.io/blog/2018/12/07/tagless-final) |
 
 ## Quotes
