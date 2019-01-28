@@ -44,3 +44,5 @@ The list has evolved into a collection of topics that are not limited only to Ha
 "If your code feels complicated to write, it's more often than not that your types are not fit representation of your data" - [Michel Belleville](https://elmlang.slack.com/archives/C0CJ671HU/p1541581801316400)
 
 "The design of the data structures is the central decision in the creation of a program. Once the data structures are laid out, the algorithms tend to fall into place, and the coding is comparatively easy." - [Brian W. Kernighan and Rob Pike  - "The Practice of Programming"](http://ptgmedia.pearsoncmg.com/images/9780201615869/samplepages/020161586X.pdf)
+
+"Making illegal states unrepresentable is all about statically proving that all runtime values (without exception) correspond to valid objects in the business domain." - [John A De Goes](https://twitter.com/jdegoes/status/1089949149628375040)
