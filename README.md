@@ -28,7 +28,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview), [3](https://jappieklooster.nl/lens-into-wrapped-newtypes.html), [4](https://github.com/hablapps/DontFearTheProfunctorOptics), [5](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe) |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
 | Indexed Monads | :x: | |
-| Tagless Final | :x: | [1](https://serokell.io/blog/2018/12/07/tagless-final) |
+| Tagless Final | :heavy_check_mark: | [1](https://serokell.io/blog/2018/12/07/tagless-final) |
 | Codensity | :x: | |
 | EffCategories | :x: | [1](https://coot.me/posts/categories-with-monadic-effects.html) |
 
