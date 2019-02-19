@@ -4,12 +4,13 @@ The list has evolved into a collection of topics that are not limited only to Ha
 
 | Topic | Familiar with? | Resources |
 |:-----:|:-----:| :-----:|
-| Data.Functor.Compose | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
 | Reader | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://blog.ssanj.net/posts/2014-09-23-A-Simple-Reader-Monad-Example.html) |
 | State | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://egghead.io/courses/state-monad-in-javascript), [3](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c) |
-| Parser combinators | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), [3](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9) |
+| Tagless Final | :heavy_check_mark: | [1](https://serokell.io/blog/2018/12/07/tagless-final) |
 | Monad transformers | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://mmhaskell.com/blog/2017/3/6/making-sense-of-multiple-monads), [3](https://robots.thoughtbot.com/refactoring-to-a-monad-transformer-stack), [4](https://www.youtube.com/watch?v=NpwP01Z0pWQ), [5](https://www.youtube.com/watch?v=GZPup5Iuaqw) |
 | ReaderT design pattern | :heavy_check_mark: | [1](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) |
+| Data.Functor.Compose | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
+| Parser combinators | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), [3](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9) |
 | Free | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo), [3](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html), [4](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html), [5](http://degoes.net/articles/modern-fp), [6](http://degoes.net/articles/modern-fp-part-2), [7](https://softwaremill.com/free-monads/) |
 | Freer | :x: | |
 | Comonad | :x: | |
@@ -28,7 +29,6 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview), [3](https://jappieklooster.nl/lens-into-wrapped-newtypes.html), [4](https://github.com/hablapps/DontFearTheProfunctorOptics), [5](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe) |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
 | Indexed Monads | :x: | |
-| Tagless Final | :heavy_check_mark: | [1](https://serokell.io/blog/2018/12/07/tagless-final) |
 | Codensity | :x: | |
 | EffCategories | :x: | [1](https://coot.me/posts/categories-with-monadic-effects.html) |
 | What's the problem? | :x: | [1](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
