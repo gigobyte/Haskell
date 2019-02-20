@@ -31,6 +31,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Indexed Monads | :x: | |
 | Codensity | :x: | |
 | EffCategories | :x: | [1](https://coot.me/posts/categories-with-monadic-effects.html) |
+| Yoneda | :x: | |
 | What's the problem? | :x: | [1](https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of/)
 
 ## Quotes
