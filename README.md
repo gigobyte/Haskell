@@ -26,7 +26,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d) |
 | DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 | Trampolines | :x: | [1](https://adamschoenemann.dk/posts/2019-02-12-trampolines.html) |
-| Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview), [3](https://jappieklooster.nl/lens-into-wrapped-newtypes.html), [4](https://github.com/hablapps/DontFearTheProfunctorOptics), [5](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe) |
+| Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview), [3](https://jappieklooster.nl/lens-into-wrapped-newtypes.html), [4](https://github.com/hablapps/DontFearTheProfunctorOptics), [5](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe), [6](https://vrom911.github.io/blog/write-yourself-a-lens) |
 | Classy Prisms | :x: | [1](https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html) |
 | Indexed Monads | :x: | |
 | Codensity | :x: | |
