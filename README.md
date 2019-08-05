@@ -23,7 +23,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Type families | :x: | |
 | Algebraic effects | :x: | |
 | Typeable/Typerep | :x: | [1](https://sras.me/haskell/what-the-heck-is-typeable.html) |
-| Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d) |
+| Transducer | :x: | [1](https://medium.com/@MimiLiou77/intuitive-transducer-in-javascript-f358d3fe53d), [2](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d), [3](https://jrsinclair.com/articles/2019/magical-mystical-js-transducers/) |
 | DerivingVia | :x: | [1](https://www.tweag.io/posts/2018-10-04-capability.html)
 | Trampolines | :x: | [1](https://adamschoenemann.dk/posts/2019-02-12-trampolines.html), [2](https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3) |
 | Profunctor Optics | :x: | [1](https://lens-by-example.chrispenner.ca/articles/traversals/writing-traversals), [2](https://lens-by-example.chrispenner.ca/articles/prisms/overview), [3](https://jappieklooster.nl/lens-into-wrapped-newtypes.html), [4](https://github.com/hablapps/DontFearTheProfunctorOptics), [5](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe), [6](https://vrom911.github.io/blog/write-yourself-a-lens) |
