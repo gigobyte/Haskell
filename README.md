@@ -10,7 +10,7 @@ The list has evolved into a collection of topics that are not limited only to Ha
 | Monad transformers | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://mmhaskell.com/blog/2017/3/6/making-sense-of-multiple-monads), [3](https://robots.thoughtbot.com/refactoring-to-a-monad-transformer-stack), [4](https://www.youtube.com/watch?v=NpwP01Z0pWQ), [5](https://www.youtube.com/watch?v=GZPup5Iuaqw) |
 | ReaderT design pattern | :heavy_check_mark: | [1](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern) |
 | Data.Functor.Compose | :x: | [1](https://hackage.haskell.org/package/transformers-0.3.0.0/docs/Data-Functor-Compose.html), [2](https://medium.com/@fintan.halpenny/compose-tetris-196b70035aff) |
-| Parser combinators | :x: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), [3](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9) |
+| Parser combinators | :heavy_check_mark: | [1](http://haskellbook.com/), [2](https://gist.github.com/yelouafi/556e5159e869952335e01f6b473c4ec1), [3](https://hackernoon.com/arcsecond-parsing-in-javascript-made-easy-af1894bdcec9) |
 | Free | :x: | [1](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html), [2](https://www.youtube.com/watch?v=rP_JoHKFNJo), [3](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html), [4](http://www.haskellforall.com/2012/07/purify-code-using-free-monads.html), [5](http://degoes.net/articles/modern-fp), [6](http://degoes.net/articles/modern-fp-part-2), [7](https://softwaremill.com/free-monads/) |
 | Freer | :x: | |
 | Comonad | :x: | |
